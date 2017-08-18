@@ -16,6 +16,7 @@
 ## Referências
 
 ### Variáveis Complexas
+ * Notas de Aula - Curso de Variáveis Complexas 1 (Lineu da Costa Araujo Neto)
  * [Khan Academy - Números Complexos](https://pt.khanacademy.org/math/precalculus/imaginary-and-complex-numbers)
  * [Wikipage - Números Complexos](https://pt.wikipedia.org/wiki/N%C3%BAmero_complexo)
  
